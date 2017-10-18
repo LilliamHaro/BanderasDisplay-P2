@@ -1,0 +1,16 @@
+ *{
+   box-sizing: border-box;
+ }
+ #container div{
+   width: 200px;
+   height: 100px;
+   margin: 8px;
+   padding: 10px 0 0 10px;
+ }
+ .yellow{
+   background-color: rgb(247,182,23);
+ }
+ .black{
+   background-color: #000;
+   color: #fff;
+ }
